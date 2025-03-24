@@ -1,0 +1,28 @@
+.container {
+    background-color: red;
+    width: 35%;
+    height: 140px;
+    /* font-size: 80px; */
+}
+span {
+    font-size: 25px;
+}
+
+
+.IT {
+    width: 35%;
+}
+
+table {
+    border-collapse: collapse;
+    width: 15%;
+    border: solid 1px black;
+}
+th, td {
+    border: solid 1px red;
+}
+form {
+    width: 300px;
+    border: solid 2px black;
+    /* padding: 10px; */
+}
